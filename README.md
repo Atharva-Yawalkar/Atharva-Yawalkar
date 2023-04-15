@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-yawalkar&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-yawalkar" /> </p>
 
+- 🔭 I’m currently pursuing B.Tech degree in Information Technology from **Vellore Institute of Technology**
+
+- 🌱 I’m currently learning **Data Structures & Algorithms**
+
 - 📫 How to reach me **yawalkaratharva4@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Rj2buhFzIb9vlSG5AfrRBepvRWDchn3L?usp=share_link](https://drive.google.com/drive/folders/1Rj2buhFzIb9vlSG5AfrRBepvRWDchn3L?usp=share_link)
